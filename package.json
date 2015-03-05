@@ -1,10 +1,11 @@
+
 {
   "author": {
     "name": "Anthony Ramm"
   },
   "name": "broccoli-emblem-compiler",
   "description": "Emblem.js precompiler for projects that use broccoli",
-  "version": "0.4.0",
+  "version": "0.3.18",
   "repository": {
     "type": "git",
     "url": "https://github.com/antramm/broccoli-emblem-compiler"
@@ -21,9 +22,9 @@
     "MIT"
   ],
   "dependencies": {
-    "broccoli-filter": "^0.1.10",
-    "ember-template-compiler": "^1.9.0-alpha",
-    "emblem": "^0.5.0"
+    "broccoli-filter": "~0.1.7",
+    "ember-template-compiler": "~1.5.0",
+    "emblem": "0.3.18"
   },
   "devDependencies": {},
   "optionalDependencies": {}
